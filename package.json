@@ -1,0 +1,22 @@
+{
+  "name": "hello-plain-old-javascript",
+  "version": "0.0.1",
+  "description": "Hello World utilizing Plain Old JavaScript",
+  "scripts": {
+    "start": "node server.js",
+    "prestart": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevelopIntelligenceBoulder/hello-plain-old-javascript.git"
+  },
+  "author": "Kamren Zorgdrager <kamrenz@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/DevelopIntelligenceBoulder/hello-plain-old-javascript",
+  "devDependencies": {
+    "express": "^4.12.4"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
