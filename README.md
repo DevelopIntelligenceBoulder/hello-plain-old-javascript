@@ -5,7 +5,7 @@ A simple example of Hello World written with POJSOs (Plain Old JavaScript Object
 This example shows how to utilize POJSOs to populate string templates.
 
 ### Within the js/main.js
-The application namespace is created. It is a simple JavaScript namespace that the Backbone architecture will be attached too.
+The application namespace is created. It is a simple JavaScript namespace that the MVC architecture will be attached too.
 
 ### Within the js/hello-view.js
 A JavaScript module (i.e. Revealing Module Pattern Object) is created to handle view logic. The view exposes a render function that is invoked to place this view into the DOM (Document Object Model). 
