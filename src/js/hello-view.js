@@ -8,14 +8,14 @@
 
         /**
          * Handles the rendering of this View Module
-         * @param applElementID The id of the element housing the application
+         * @param elementID The id of the element housing the application
          * @param model The model object holding dynamic data
          */
-        var render = function render(applElementID, model) {
+        var render = function render(elementID, model) {
             //Creating the stringified template and model
             var stringifiedTemplate = '<h1>Hello ' +  model.place + '</h1>';
             //Placing the stringified template into the DOM
-            $('#' + applElementID).html(stringifiedTemplate);
+            $('#' + elementID).html(stringifiedTemplate);
         };
 
         //API for Module Revealing Pattern
