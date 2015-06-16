@@ -14,7 +14,7 @@ A JavaScript module (i.e. Revealing Module Pattern Object) is created to handle 
 An initialization function is utilized to start the view interaction. This method is invoked when the DOM is ready to be interacted with. The controller hands the view the model that is to be applied.
 
 ### Within the index.html
-The index.html contains the Backbone application element, just a plain old HTML element. In this case a `<div id="app">`. 
+The index.html contains the application element, just a plain old HTML element. In this case a `<div id="app">`. 
 
 ## Instructions
 1. Install [NodeJS](https://nodejs.org/)
