@@ -19,7 +19,7 @@ The index.html contains the application element, just a plain old HTML element. 
 ## Instructions
 1. Install [NodeJS](https://nodejs.org/)
 2. Run `npm start` to get the application running on the web server
-    * Packages needed for this application will be installed (i.e. jQuery  & Express)
+    * Packages needed for this application will be installed (i.e. jQuery & Express)
     * The Node/Express Web Server will start
 3. Go to `http://localhost:8080/src/` in your web browser
 
